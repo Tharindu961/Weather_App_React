@@ -4,7 +4,7 @@ const Weather = () => {
     return(
         <div className="container">
             <div className="cards">
-            <h1>Weather App</h1>
+            <h1>London</h1>
             </div>
         </div>
     );
